@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /*
- *main- prints the string in the put function
+ *main - prints the string in the put function
  *
  *Description: usigning the main function
- *Return: Always ends with 0;
+ *Return: Always ends with 0
  */
 int main(void)
 {

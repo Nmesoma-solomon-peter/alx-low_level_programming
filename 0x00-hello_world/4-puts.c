@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- *main- prints "programming is like a multilingual  puzzle",
+ *main- prints the string in the put function
  *
  *Description: usigning the main function
  *Return: Always ends with 0;

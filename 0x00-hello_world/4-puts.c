@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main- prints "programming is like a multilingual  puzzle",
+ *main- prints "programming is like a multilingual  puzzle",
  *
  *Description: usigning the main function
  *Return: Always ends with 0;

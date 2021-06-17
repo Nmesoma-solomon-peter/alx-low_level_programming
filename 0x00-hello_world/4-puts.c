@@ -2,7 +2,6 @@
 
 /*
  *main - prints the string in the put function
- *
  *Description: usigning the main function
  *Return: Always ends with 0
  */

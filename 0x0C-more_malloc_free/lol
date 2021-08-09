@@ -1,0 +1,15 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main()
+{
+    int s;
+    int s2;
+
+ s = sizeof("Holberton");
+ s2 = strlen("Holberton");
+
+ printf("%d\n", s);
+ printf("%d\n", s2);
+}
+

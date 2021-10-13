@@ -1,3 +1,4 @@
+#nmesoma-solomon-peter
 0x1A. C - Hash tables
 
 What is a hash function
